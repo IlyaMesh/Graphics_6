@@ -1,0 +1,5 @@
+C:\Users\ipioneer\source\repos\Graphics_6\LibraryForThisTask\bin\Debug\LibraryForThisTask.dll
+C:\Users\ipioneer\source\repos\Graphics_6\LibraryForThisTask\bin\Debug\LibraryForThisTask.pdb
+C:\Users\ipioneer\source\repos\Graphics_6\LibraryForThisTask\obj\Debug\CustomMath.csproj.CoreCompileInputs.cache
+C:\Users\ipioneer\source\repos\Graphics_6\LibraryForThisTask\obj\Debug\LibraryForThisTask.dll
+C:\Users\ipioneer\source\repos\Graphics_6\LibraryForThisTask\obj\Debug\LibraryForThisTask.pdb

@@ -1,0 +1,16 @@
+C:\Users\ipioneer\source\repos\Graphics_6\MyGraphics\obj\Debug\MyGraphics.csprojResolveAssemblyReference.cache
+C:\Users\ipioneer\source\repos\Graphics_6\MyGraphics\obj\Debug\MyGraphics.csproj.CoreCompileInputs.cache
+C:\Users\ipioneer\source\repos\Graphics_6\MyGraphics\bin\Debug\MyGraphics.dll
+C:\Users\ipioneer\source\repos\Graphics_6\MyGraphics\bin\Debug\MyGraphics.pdb
+C:\Users\ipioneer\source\repos\Graphics_6\MyGraphics\bin\Debug\LibraryForThisTask.dll
+C:\Users\ipioneer\source\repos\Graphics_6\MyGraphics\bin\Debug\LibraryForThisTask.pdb
+C:\Users\ipioneer\source\repos\Graphics_6\MyGraphics\obj\Debug\MyGraphics.dll
+C:\Users\ipioneer\source\repos\Graphics_6\MyGraphics\obj\Debug\MyGraphics.pdb
+C:\Users\Mesh_I\source\repos\Graphics_6\MyGraphics\bin\Debug\MyGraphics.dll
+C:\Users\Mesh_I\source\repos\Graphics_6\MyGraphics\bin\Debug\MyGraphics.pdb
+C:\Users\Mesh_I\source\repos\Graphics_6\MyGraphics\bin\Debug\LibraryForThisTask.dll
+C:\Users\Mesh_I\source\repos\Graphics_6\MyGraphics\bin\Debug\LibraryForThisTask.pdb
+C:\Users\Mesh_I\source\repos\Graphics_6\MyGraphics\obj\Debug\MyGraphics.csprojResolveAssemblyReference.cache
+C:\Users\Mesh_I\source\repos\Graphics_6\MyGraphics\obj\Debug\MyGraphics.csproj.CoreCompileInputs.cache
+C:\Users\Mesh_I\source\repos\Graphics_6\MyGraphics\obj\Debug\MyGraphics.dll
+C:\Users\Mesh_I\source\repos\Graphics_6\MyGraphics\obj\Debug\MyGraphics.pdb
